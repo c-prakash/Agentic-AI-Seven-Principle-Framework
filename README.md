@@ -30,4 +30,4 @@ These supplementary files are provided to support transparency, reproducibility,
 
 ## License
 
-Please follow the licensing terms of the published article and the journal. If the article is published under a Creative Commons license, reuse should follow the applicable CC license terms.
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
